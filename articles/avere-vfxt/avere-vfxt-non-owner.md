@@ -27,7 +27,7 @@ A subscription owner also must [accept the terms of use](avere-vfxt-prereqs.md) 
    {
        "AssignableScopes": ["/subscriptions/<SUBSCRIPTION_ID>"],
        "Name": "avere-create-cluster",
-       "IsCustom": "true"
+       "IsCustom": "true",
        "Description": "Can create Avere vFXT clusters",
        "NotActions": [],
        "Actions": [
